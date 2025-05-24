@@ -35,3 +35,7 @@
 2. Location Access: User has the right to turn it off while using the app.
 
 ### Checkout the testcases by downloading it 👉 [click here](https://github.com/RouthKiranBabu/Masai-School-Journey/blob/main/Assignment/Manual%20Testing/Assignment%201/Zomato%20Test%20Cases%20and%20Scenarios.xlsx).
+# Overview of Exploration testing
+<div align = 'center'>
+<img src = "https://github.com/RouthKiranBabu/Assignment-1-STLC-Test-Planning-Documentation/blob/main/Gif_ScreenRecording_ScreenShots/_Disablelocation.gif"></img>
+</div>
