@@ -22,20 +22,16 @@
  - Must have good comments in app store.
  - Eye catching advertisements must be realistic in pratical look in food.
 
-## STLC phases involved in testing this product(during Version: 18.9.3, Size: 83.7 MB and Test Starting Date: 23-May-2025)
+## STLC phases involved in testing this product(during Version: 18.9.3, Size: 83.7 MB and Tested Date: 23-May-2025)
 #### Requirement Analysis
- - **Check reviews on Google Play Store** Find and Fix the errors caused in app given by customers.
- - **Updates on Whatsapp** Both work and updates must be hand in hand.
- - **On time/Cash In Hand Delivery**.
+ - **On reviews on Google Play Store** Find and Fix the negative reviews.
+ - **Updates on Whatsapp** Whatsapp as a medium does show accurate response to the end customers.
+ - **On time/Cash In Hand Delivery** options.
 #### Test Planning
- - **Scope**: With less customer affort, delicious food on door steps on time.
+ - **Scope**: Users can turn off location during using of app. OTP verification is within 20 seconds.
 
+## Functionalities Checked
+1. OTP(One Time Password): Used during varification of the user using mobile number during the first opening the app.
+2. Location Access: User has the right to turn it off while using the app.
 
-
-<div align="center">
-
-
-| **`Functional Requirements`** | **`Non-functional Requirements`** |
-|--:|:--|
-||second|
-<div>
+### Checkout the testcases by downloading it 👉 [click here](https://github.com/RouthKiranBabu/Masai-School-Journey/blob/main/Assignment/Manual%20Testing/Assignment%201/Zomato%20Test%20Cases%20and%20Scenarios.xlsx).
